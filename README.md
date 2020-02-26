@@ -8,4 +8,4 @@ Advanced Machine Learning
 
 Introduction to NLP
 
-Hackathons and Capstone Projects
+Hackathons and Capstone Projects(these are in another repositories)
